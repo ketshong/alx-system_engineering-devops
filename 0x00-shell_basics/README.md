@@ -1,0 +1,1 @@
+Print of curent path 
