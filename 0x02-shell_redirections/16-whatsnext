@@ -1,1 +1,2 @@
 #!/bin/bash
+grep -Ai 3 "roo" /etc/passwd
