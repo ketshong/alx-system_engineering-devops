@@ -1,2 +1,2 @@
 #!/bin/bash
-Add `/action` to the `PATH`
+echo "hello $USER"
